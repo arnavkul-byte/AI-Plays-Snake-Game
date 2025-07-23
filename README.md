@@ -40,7 +40,7 @@ You will need to have Python 3 and pip installed on your machine.
 
 1.  Clone the repo:
     ```sh
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/arnavkul-byte/AI-Plays-Snake-Game.git
     ```
 2.  Navigate to the project directory:
     ```sh
@@ -50,7 +50,6 @@ You will need to have Python 3 and pip installed on your machine.
     ```sh
     pip install -r requirements.txt
     ```
-    *Note: If a `requirements.txt` file is not available, you can install the necessary libraries manually:*
     ```sh
     pip install pygame torch numpy matplotlib
     ```
